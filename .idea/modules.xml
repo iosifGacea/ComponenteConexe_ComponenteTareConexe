@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Connected-Strongly-Connected-Components-main.iml" filepath="$PROJECT_DIR$/Connected-Strongly-Connected-Components-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Max-Flow-in-a-Network-main/Max-Flow-in-a-Network-main.iml" filepath="$PROJECT_DIR$/../Max-Flow-in-a-Network-main/Max-Flow-in-a-Network-main.iml" />
+    </modules>
+  </component>
+</project>
